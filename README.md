@@ -1,4 +1,4 @@
-# Olá, eu sou a Giovanna Borges 👋
+# Olá, eu sou a Giovanna Borges 
 
 Estudante de Análise e Desenvolvimento de Sistemas no Mackenzie, com experiência profissional em Data & Analytics — atuando com SQL, Power BI e análise de dados em ambiente corporativo para geração de insights estratégicos.
 
@@ -35,3 +35,4 @@ Construindo portfólio com projetos de dados, automação e IA — com foco em e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanna%20Borges-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giovanna-freitas-9b1b3a255)
 [![GitHub](https://img.shields.io/badge/GitHub-giovanna--borges1-181717?style=flat-square&logo=github)](https://github.com/giovanna-borges1)
+📧 giovannaborgesdefreitas@gmail.com
